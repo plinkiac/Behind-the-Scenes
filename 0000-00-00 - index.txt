@@ -1,6 +1,7 @@
-mm/dd/yyyy | hh:mm:ss | x → transcript | title
+mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 
-03/27/2015 | 00:01:31 |  | SPACE COP - Behind the Scenes
-07/23/2020 | 00:20:12 | bit.ly/3fp3RmL | Boomer Fight! Shatner VS RLM Explained!
+03/27/2015 | 00:01:31 | bit.ly/3392uUb | SPACE COP - Behind the Scenes (Jim, Colin)
+06/27/2019 | 00:01:30 | bit.ly/33bvlay | 1 MILLION SUBSCRIBER COUNTDOWN
+07/23/2020 | 00:20:12 | bit.ly/2J2ECdy | Boomer Fight! Shatner VS RLM Explained! (Mike)
 
 https://www.redlettermedia.com/behind-the-scenes
