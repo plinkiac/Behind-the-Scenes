@@ -1,0 +1,3 @@
+mm/dd/yyyy | hh:mm:ss | x → transcript | title
+
+07/23/2020 | 00:20:12 | bit.ly/3fp3RmL | Boomer Fight! Shatner VS RLM Explained!
