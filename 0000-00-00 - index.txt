@@ -1,9 +1,10 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 
 03/27/2015 | 00:01:31 | bit.ly/3392uUb | SPACE COP - Behind the Scenes (Jim, Colin)
-03/01/2019 | 00:36:04 | bit.ly/394b62c | Our VHS Collection
-04/17/2019 | 00:41:51 | bit.ly/3fqiBlc | Our DVD and Blu-ray Collection
-06/27/2019 | 00:01:30 | bit.ly/33bvlay | 1 MILLION SUBSCRIBER COUNTDOWN
+03/01/2019 | 00:36:04 | bit.ly/394b62c | Our VHS Collection (Mike)
+04/17/2019 | 00:41:51 | bit.ly/3fqiBlc | Our DVD and Blu-ray Collection (Mike)
+06/27/2019 | 00:01:30 | bit.ly/33bvlay | 1 MILLION SUBSCRIBER COUNTDOWN (Mike, Jay, Rich, Jack, Josh)
+07/20/2019 | 00:02:39 | bit.ly/3fJAGuI | Behind The Scenes with Red Letter Media (Mike, Jay, Rich, Jack, Macaulay)
 07/23/2020 | 00:20:12 | bit.ly/2J2ECdy | Boomer Fight! Shatner VS RLM Explained! (Mike)
 
 https://www.redlettermedia.com/behind-the-scenes
