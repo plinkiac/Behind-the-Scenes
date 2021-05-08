@@ -6,5 +6,6 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 06/27/2019 | 00:01:30 | bit.ly/33bvlay | 1 MILLION SUBSCRIBER COUNTDOWN (Mike, Jay, Rich, Jack, Josh)
 07/20/2019 | 00:02:39 | bit.ly/3fJAGuI | Behind The Scenes with Red Letter Media (Mike, Jay, Rich, Jack, Macaulay)
 07/23/2020 | 00:20:12 | bit.ly/2J2ECdy | Boomer Fight! Shatner VS RLM Explained! (Mike)
+05/21/2020 | 00:08:55 | bit.ly/3f3iqMW | Organizing Our Movie Collection (Jay, Rich)
 
 https://www.redlettermedia.com/behind-the-scenes
