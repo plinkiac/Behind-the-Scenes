@@ -1,7 +1,11 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 
+00/00/2012 | 00:13:30 | bit.ly/3F0cC5q | Bad Movie (Mike, Jay, Trevor Chartrand)
+05/18/2012 | 00:03:40 | bit.ly/3SpGA5Z | The Great Red Letter Media Auction! (Mike, Jay)
 03/27/2015 | 00:01:31 | bit.ly/3392uUb | SPACE COP - Behind the Scenes (Jim, Colin)
+05/16/2016 | 00:02:40 | bit.ly/3sj3qBA | Mike Stoklasa in Copenhagen (Mike)
 03/01/2019 | 00:36:04 | bit.ly/394b62c | Our VHS Collection (Mike)
+03/17/2019 | 00:02:35 | bit.ly/3TFsYV6 | Red Letter Media is on Patreon! (Mike, Jay)
 04/17/2019 | 00:41:51 | bit.ly/3fqiBlc | Our DVD and Blu-ray Collection (Mike)
 06/27/2019 | 00:01:30 | bit.ly/33bvlay | 1 MILLION SUBSCRIBER COUNTDOWN (Mike, Jay, Rich, Jack, Josh)
 07/20/2019 | 00:02:39 | bit.ly/3fJAGuI | Behind The Scenes with Red Letter Media (Mike, Jay, Rich, Jack, Macaulay)
